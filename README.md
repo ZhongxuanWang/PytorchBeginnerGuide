@@ -16,3 +16,6 @@ Pytorch beginner guide to Deep Learning and Neural Network, with fully illustrat
 * About this tutorial
 
   * This tutorial is self-made for notes and studying, some of the notes are originated from either pytorch official website or googled-result, and others are from myself. I kept them as official and authentic as possible, but still there might be some errors and could potentially cause mistakes to your projects or software and disrupt your learning.
+
+ * Start on August 3 2020, still updating...
+ 
